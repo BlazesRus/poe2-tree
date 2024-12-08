@@ -1148,8 +1148,11 @@
 		"stats": []
 	},
 	"N231": {
-		"name": "Unbroken Concentration",
-		"stats": ["40% increased Stun Threshold if you haven't been stunned recently"]
+		"name": "Mindful Awareness",
+		"stats": [
+			"24% increased Evasion Rating",
+			"30% increased maximum Energy Shield"
+		]
 	},
 	"N232": {
 		"name": "Immaterial",
@@ -1255,8 +1258,7 @@
 		"name": "Step Like Mist",
 		"stats": [
 			"4% increased Movement Speed",
-			"14% increased Evasion Rating",
-			"14% increased maximum Energy Shield",
+			"14% increased Mana Regeneration Rate",
 			"+5 to Dexterity and Intelligence"
 		]
 	},
@@ -5828,8 +5830,11 @@
 		"stats": []
 	},
 	"S765": {
-		"name": "S765",
-		"stats": []
+		"name": "Evasion and Energy Shield",
+		"stats": [
+			"12% increased Evasion Rating",
+			"12% increased maximum Energy Shield"
+		]
 	},
 	"S766": {
 		"name": "Ignite Chance",
@@ -5904,8 +5909,11 @@
 		"stats": []
 	},
 	"S783": {
-		"name": "Stun Threshold while on Full Life",
-		"stats": ["15% increased Stun Threshold if you haven't been Stunned Recently"]
+		"name": "Evasion and Energy Shield",
+		"stats": [
+			"12% increased Evasion Rating",
+			"12% increased maximum Energy Shield"
+		]
 	},
 	"S784": {
 		"name": "S784",
@@ -5924,8 +5932,8 @@
 		"stats": ["8% increased Area of Effect for Attacks"]
 	},
 	"S788": {
-		"name": "S788",
-		"stats": []
+		"name": "Critical Damage",
+		"stats": ["15% increased Critical Damage Bonus"]
 	},
 	"S789": {
 		"name": "Attribute",
@@ -5940,8 +5948,8 @@
 		"stats": []
 	},
 	"S792": {
-		"name": "S792",
-		"stats": []
+		"name": "Critical Damage",
+		"stats": ["15% increased Critical Damage Bonus"]
 	},
 	"S793": {
 		"name": "S793",
@@ -6097,7 +6105,7 @@
 	},
 	"S831": {
 		"name": "Skill Speed",
-		"stats": ["3% increased Attack and Cast Speed"]
+		"stats": ["3% increased Skill Speed"]
 	},
 	"S832": {
 		"name": "S832",
@@ -6153,7 +6161,7 @@
 	},
 	"S845": {
 		"name": "Skill Speed",
-		"stats": ["3% increased Attack and Cast Speed"]
+		"stats": ["3% increased Skill Speed"]
 	},
 	"S846": {
 		"name": "Power Charge Duration",
@@ -6189,7 +6197,7 @@
 	},
 	"S854": {
 		"name": "Evasion and Energy Shield",
-		"stats": ["+8 to Evasion Rating", "+5 to maximum Energy Shield"]
+		"stats": ["12% increased Evasion Rating", "12% increased maximum Energy Shield"]
 	},
 	"S855": {
 		"name": "Elemental Damage",
@@ -6221,7 +6229,7 @@
 	},
 	"S862": {
 		"name": "Evasion and Energy Shield",
-		"stats": ["+8 to Evasion Rating", "+5 to maximum Energy Shield"]
+		"stats": ["12% increased Evasion Rating", "12% increased maximum Energy Shield"]
 	},
 	"S863": {
 		"name": "Melee Damage",
