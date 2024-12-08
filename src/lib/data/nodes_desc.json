@@ -857,8 +857,8 @@
 		"stats": []
 	},
 	"N167": {
-		"name": "N167",
-		"stats": []
+		"name": "Critical Exploit",
+		"stats": ["25% increased Critical Hit Chance"]
 	},
 	"N168": {
 		"name": "Deafening Cries",
@@ -929,8 +929,8 @@
 		"stats": ["32% increased Spell Damage"]
 	},
 	"N182": {
-		"name": "N182",
-		"stats": []
+		"name": "Arcane Mixtures",
+		"stats": ["25% Energy Shield Recharge Rate", "Mana Flasks gain 0.1 charges per Second"]
 	},
 	"N183": {
 		"name": "Wild Storm",
@@ -997,8 +997,8 @@
 		"stats": []
 	},
 	"N198": {
-		"name": "N198 - Title Missing",
-		"stats": ["6% of Damage taken Recouped as Life"]
+		"name": "Infused Flesh",
+		"stats": ["+20 to maximum Life", "8% of Damage taken Recouped as Life"]
 	},
 	"N199": {
 		"name": "Moment of Truth",
@@ -5754,8 +5754,8 @@
 		"stats": []
 	},
 	"S746": {
-		"name": "S746",
-		"stats": []
+		"name": "Life on Kill",
+		"stats": ["Gain 3 Life per Enemy Killed"]
 	},
 	"S747": {
 		"name": "S747",
@@ -5964,8 +5964,8 @@
 		"stats": []
 	},
 	"S796": {
-		"name": "S796",
-		"stats": []
+		"name": "Life on Kill",
+		"stats": ["Gain 3 Life per Enemy Killed"]
 	},
 	"S797": {
 		"name": "S797",
